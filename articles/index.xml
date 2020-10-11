@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mamadou GUEYE</title>
+    <link>https://mamadou-gueye2.github.io/articles/</link>
+    <description>Recent content in Articles on Mamadou GUEYE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mamadou-gueye2.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article-1: Fiscal Policy and Economic Growth in the WAEMU zone.</title>
+      <link>https://mamadou-gueye2.github.io/articles/article-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mamadou-gueye2.github.io/articles/article-2/</guid>
+      <description>This training is to strengthen skills of the supervisors and professionals of the AJSE in terms of analysis and manipulation of data, essential in the professional environment. The members of the association will be the only beneficiaries. At the end of this training, they will be able to manage with more efficiency the tasks relating to the activities carried out in the association by using the powerful tools of MS Excel.</description>
+    </item>
+    
+    <item>
+      <title>Article-1: Modal Choices Determinants Analysis.</title>
+      <link>https://mamadou-gueye2.github.io/articles/article-1/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mamadou-gueye2.github.io/articles/article-1/</guid>
+      <description>This training is to strengthen skills of the supervisors and professionals of the AJSE in terms of analysis and manipulation of data, essential in the professional environment. The members of the association will be the only beneficiaries. At the end of this training, they will be able to manage with more efficiency the tasks relating to the activities carried out in the association by using the powerful tools of MS Excel.</description>
+    </item>
+    
+  </channel>
+</rss>
