@@ -5878,12 +5878,16 @@ pre {
 .f2-welcome
 {
   color: #FFFFFF;
+  font-size: 1.8em
 }
 
 .f2-welcome
 {
   animation-duration: 3s;
   animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  overflow:hidden;
 }
 
 @keyframes slidein {
@@ -5898,10 +5902,8 @@ pre {
   }
 }
 
-.f2-welcome
-{
-  overflow:hidden;
-}
+
+  
 
 
 
