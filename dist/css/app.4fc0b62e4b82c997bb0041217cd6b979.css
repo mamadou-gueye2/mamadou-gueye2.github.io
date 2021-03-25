@@ -5877,6 +5877,11 @@ pre {
 
 .f2-welcome
 {
+  color: #FFFFFF;
+}
+
+.f2-welcome
+{
   animation-duration: 3s;
   animation-name: slidein;
 }
@@ -5896,7 +5901,6 @@ pre {
 .f2-welcome
 {
   overflow:hidden;
-  color: #FFFFFF;
 }
 
 
